@@ -28,7 +28,8 @@
 ### 🎬 **Video Preview**
 Check out a preview of the mod in action!
 
-[![Season-Setter Preview](https://streamable.com/qwsiez)
+[WATCH HERE!](https://streamable.com/qwsiez)
+
 
 ---
 
