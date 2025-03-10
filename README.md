@@ -25,6 +25,13 @@
 
 ---
 
+### 🎬 **Video Preview**
+Check out a preview of the mod in action!
+
+[![Season-Setter Preview](https://streamable.com/qwsiez)
+
+---
+
 ### 🚀 **Installation Guide:**
 1. **Download** and install [MoonLoader](https://github.com/MoonyProject/MoonLoader).  
 2. **Copy** the script files to the `moonloader` folder in your SA-MP directory.  
