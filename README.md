@@ -1,4 +1,4 @@
-## ❄️ **Season-Setter** ❄️ 
+## ☀️ **Season-Setter** ❄️ 
 *A SA-MP mod that lets you switch between summer and winter seasons!*
 
 ---
