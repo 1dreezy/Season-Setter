@@ -1,7 +1,7 @@
 script_name("Season-Setter")
-script_author("Wade")
-script_version("work-in-progress")
-script_url("@wade.xc on discord")
+script_author("ANDRE")
+script_version("final")
+script_url("---")
 
 local imgui = require 'imgui'
 local modsWindow = imgui.ImBool(true)
@@ -53,7 +53,6 @@ function drawTimer()
         local seconds = string.format("%02d", remaining % 60)
         local timeText = minutes .. ":" .. seconds
 
-        -- Schimbă culoarea în funcție de timpul rămas
         local color = imgui.ImVec4(1, 1, 1, 1) -- Alb
         if remaining <= 7 and remaining > 5 then
             color = imgui.ImVec4(1, 1, 0, 1) -- Galben
