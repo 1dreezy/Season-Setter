@@ -1,5 +1,5 @@
 script_name("Season-Setter")
-script_author("ANDRE")
+script_author("dreezy")
 script_version("final")
 script_url("---")
 
@@ -167,3 +167,4 @@ function setSeason(season)
         end
     end)
 end
+
