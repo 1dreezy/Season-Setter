@@ -4,8 +4,19 @@
 ---
 
 ### **Description**
-**Season-Setter** is a Lua script for **GTA San Andreas MP**, created using **MoonLoader**. This mod allows you to toggle between two seasons: **summer** 🌞 and **winter** ❄️, each with unique preview images and configurations.  
+**Season-Setter** is a Lua script for **GTA San Andreas MP**, created using **MoonLoader**. This mod allows you to toggle between two seasons: **summer** 🌞 and **winter** ❄️, each with unique preview images and configurations. 
+- The mod is a bit more complex to set up compared to simple drag & drop installations.  
+You’ll need to create two folders in **ModLoader** named `Summer Edition` and `Winter Edition`.  
+(These names were chosen by me, but you can rename them if you want – the Lua script will handle access to the files regardless of the folder name.) 
 
+- After that, you’ll also need to create two `.ini` files on GitHub, which act as toggles.  
+- Switching one season **ON** will automatically set the other **OFF**, so only one is active at a time.  
+
+### Supported file types for switching:
+- `.txd`, `.dff`, `.ini`, `.cs`  
+(⚠️ `.asi` files cannot be swapped this way.)  
+
+Be mindful of the size of your mods – very large files can cause crashes, since GTA: San Andreas is still an old game with engine limitations.
 ---
 
 ### **Features**
