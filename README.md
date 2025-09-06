@@ -3,24 +3,25 @@
 
 ---
 
-### 📋 **Description**
-**Season-Setter** is a Lua script for **San Andreas Multi Player (SA-MP)**, created using **MoonLoader**. This mod allows you to toggle between two seasons: **summer** 🌞 and **winter** ❄️, each with unique preview images and configurations.  
+### **Description**
+**Season-Setter** is a Lua script for **GTA San Andreas MP**, created using **MoonLoader**. This mod allows you to toggle between two seasons: **summer** 🌞 and **winter** ❄️, each with unique preview images and configurations.  
 
 ---
 
-### ⚙️ **Features**
-- 🌞 **Summer:** Custom textures and warm atmosphere.  
-- ❄️ **Winter:** Snowy textures and authentic winter landscapes.  
-- ⏱️ **Timer:** A countdown timer for confirming your choice.  
-- 🔄 **Confirmation:** Confirmation windows for season changes.  
-- 📥 **Automatic Download:** Config files are downloaded automatically based on your selection.  
+### **Features**
+- 🌞 **Summer:** Custom textures a
+(in modloader) and warm atmosphere.  
+- ❄️ **Winter:** Snowy textures and authentic winter vibes.  
+- **Timer:** A countdown timer for confirming your choice.  
+- **Confirmation:** Confirmation windows for season changes.  
+- **Automatic Download:** Config files are downloaded automatically from your previous choices.  
 
 ---
 
 ### 🖼️ **Previews**
-#### 🌞 **Summer:**
+#### **Summer:**
 ![Summer Preview](https://i.imgur.com/u48QFjW.jpeg)  
-#### ❄️ **Winter:**
+#### **Winter:**
 ![Winter Preview](https://i.imgur.com/uggOvBc.jpeg)  
 
 ---
